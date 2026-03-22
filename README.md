@@ -4,6 +4,10 @@ A visual switch port manager for Ubiquiti USW Pro Max 48. Configure, document, a
 
 ![.NET 9](https://img.shields.io/badge/.NET-9.0-512BD4) ![Windows](https://img.shields.io/badge/Platform-Windows-0078D6) ![License](https://img.shields.io/badge/License-MIT-green)
 
+## Screenshot
+
+![Screenshot](Screenshot.png)
+
 ## Features
 
 - **Visual port map** — 52 ports displayed in the same layout as the physical switch (2 rows + SFP+)
